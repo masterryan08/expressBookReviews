@@ -1,0 +1,19 @@
+{
+  "numFound": 30,
+  "start": 0,
+  "docs": [
+    {
+      "title": "The Martian",
+      "author_name": ["Andy Weir"],
+      "first_publish_year": 2014,
+      "isbn": ["9780804139021", "080413902X"]
+    },
+    {
+      "title": "The Martian Chronicles",
+      "author_name": ["Ray Bradbury"],
+      "first_publish_year": 1950,
+      "isbn": ["9781451678192", "1451678199"]
+    }
+    // ... more books
+  ]
+}
