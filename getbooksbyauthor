@@ -1,0 +1,19 @@
+{
+  "numFound": 200,
+  "start": 0,
+  "docs": [
+    {
+      "title": "Harry Potter and the Philosopher's Stone",
+      "author_name": ["J.K. Rowling"],
+      "first_publish_year": 1997,
+      "isbn": ["9780747532699", "0747532699"]
+    },
+    {
+      "title": "Harry Potter and the Chamber of Secrets",
+      "author_name": ["J.K. Rowling"],
+      "first_publish_year": 1998,
+      "isbn": ["9780747538493", "0747538492"]
+    }
+    // ... more books
+  ]
+}
